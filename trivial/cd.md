@@ -14,6 +14,18 @@ cd [OPS] <dir>
 
 ---
 
+## Tipps
+
+Use `..` to get to the previous directory of the current.
+
+Example:
+```
+zekro@zekro.de:/home/zekro/dev$ cd ..
+zekro@zekro.de:/home/zekro$
+```
+
+---
+
 ## Help
 
 ```

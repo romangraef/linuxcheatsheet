@@ -16,4 +16,5 @@
 
 | Command | Usage Example | Short Description |
 |---------|---------------|-------------------|
-| [**cd** <dir>](trivial/cd.md)  | cd /home/zekro | Change the current shell directory |
+| [**cd** `<dir>`](trivial/cd.md)  | `cd /home/zekro` | Change the current shell directory |
+| [**ls** `(<dir>)`](trivial/ls.md) | `ls /home/zekro -lsah` | List all files and folders in a directory |
